@@ -1,0 +1,327 @@
+/* General*/
+
+.estilo-letra {
+    font-family: 'Sans';
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.color-cuerpo {
+    color: whitesmoke;
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+table {
+    border: 2px solid white;
+}
+
+th {
+    border: 2px solid whitesmoke;
+}
+
+td {
+    border: 2px solid whitesmoke;
+}
+
+.color-table-titulo {
+    color: aqua;
+    text-align: center;
+}
+
+.table-center {
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    border: 2px solid whitesmoke;
+}
+
+td {
+    border: 2px solid whitesmoke;
+}
+
+.color-table-titulo {
+    color: aqua;
+    text-align: center;
+}
+
+.color-cuerpo-descarga {
+    color: rgb(241, 41, 121);
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 400;
+    text-decoration-line: underline;
+}
+
+.color-cuerpo-descarga-centro {
+    color: rgb(241, 41, 121);
+    font-family: 'Sans';
+    text-align: center;
+    font-weight: 400;
+    text-decoration-line: underline;
+}
+
+.imagen-circulo {
+    width: 60px;
+    height: 60px;
+    border-radius: 80%;
+    margin-left: 50px;
+}
+
+.imagen-circulo-centro {
+    width: 60px;
+    height: 60px;
+    border-radius: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Among Us Styles*/
+.fondo-pantalla-Among {
+    background-image: url('../img/fondo-among-us.jpg');
+    background-size: cover;
+}
+
+.color-titulo-Among {
+    color: darkorange;
+    text-align: left;
+}
+
+/* Overcooked Styles*/
+.fondo-pantalla-Over {
+    background-image: url('../img/fondo-overcooked.jpg');
+    background-size: cover;
+}
+
+.color-titulo-Over {
+    color: rgb(42, 247, 237);
+    text-align: center;
+}
+
+.color-cuerpo-Over {
+    color: whitesmoke;
+    font-family: 'Sans';
+    text-align: center;
+    font-weight: 100;
+}
+
+/* Stumble Styles*/
+
+.fondo-pantalla-stumble {
+    background-image: url('../img/fondo-stumble.jpg');
+    background-size: cover;
+}
+
+.imagen-stumble {
+    width: 300px;
+    height: 300px;
+    border-radius: 80%;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.color-titulo-Stumble {
+    color: purple;
+    text-align: left;
+}
+
+/* Animal Crossing Styles*/
+
+.fondo-pantalla-animal {
+    background-image: url('../img/fondo-animal.jpg');
+    background-size: cover;
+}
+
+.color-titulo-animal {
+    color: green;
+    text-align: left;
+    margin-top: 130px;
+}
+
+.color-cuerpo-animal {
+    color: rgb(37, 54, 180);
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+.color-table-titulo-animal {
+    color: rgb(0, 26, 255);
+    text-align: center;
+}
+
+/* Mario Superstars Styles*/
+
+.fondo-pantalla-mario {
+    background-image: url('../img/fondo-mario.jpg');
+    background-size: cover;
+}
+
+.color-titulo-mario {
+    color: yellow;
+    text-align: left;
+}
+
+.color-cuerpo-mario {
+    color: whitesmoke;
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+/* Fall Guys Styles*/
+
+.fondo-pantalla-fall {
+    background-image: url('../img/fondo-fall.jpg');
+    background-size: cover;
+}
+
+.color-titulo-fall {
+    color: orange;
+    text-align: left;
+}
+
+.color-cuerpo-fall {
+    color: whitesmoke;
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+/* Brawl Styles*/
+
+.fondo-pantalla-brawl {
+    background-image: url('../img/fondo-brawl.jpg');
+    background-size: cover;
+}
+
+.color-titulo-brawl {
+    color: rgb(38, 0, 255);
+    text-align: center;
+}
+
+.color-cuerpo-brawl {
+    color: whitesmoke;
+    font-family: 'Sans';
+    text-align: center;
+    font-weight: 100;
+}
+
+/* Splanton Styles*/
+
+.fondo-pantalla-splanton {
+    background-image: url('../img/fondo-splanton.jpg');
+    background-size: cover;
+}
+
+.color-titulo-splanton {
+    color: rgb(241, 56, 164);
+    text-align: left;
+}
+
+.color-cuerpo-splanton {
+    color: rgb(46, 175, 34);
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+/* Just Dance Styles*/
+
+.fondo-pantalla-dance {
+    background-image: url('../img/fondo-dance.jpg');
+    background-size: cover;
+}
+
+.color-titulo-dance {
+    color: white;
+    text-align: right;
+    margin-right: 150px;
+    margin-bottom: 0px;
+}
+
+.table-derecha {
+    display: block;
+    clear: right;
+    border: 2px solid white;
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 10px;
+}
+
+.imagen-circulo-derecha {
+    display: block;
+    clear: both;
+    width: 60px;
+    height: 60px;
+    border-radius: 80%;
+    display: block;
+    float: right;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
+
+.color-cuerpo-descarga-derecha {
+    display: block;
+    clear: both;
+    color: white;
+    font-family: 'Sans';
+    text-align: right;
+    font-weight: 400;
+    text-decoration-line: underline;
+    margin-right: 240px;
+}
+
+.color-cuerpo-derecha {
+    margin-top: 10px;
+    color: whitesmoke;
+    font-family: 'Sans';
+    float: right;
+    text-align: center;
+    margin-right: 20px;
+    font-weight: 100;
+}
+
+/* Cuphead Styles*/
+
+.fondo-pantalla-cup {
+    background-image: url('../img/fondo-cup.jpg');
+    background-size: cover;
+}
+
+.color-titulo-cup {
+    color: black;
+    text-align: left;
+}
+
+.color-cuerpo-cup {
+    color: rgb(10, 10, 10);
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 100;
+}
+
+.color-table-titulo-cup {
+    color: black;
+    text-align: center;
+}
+
+.color-cuerpo-descarga {
+    color: black;
+    font-family: 'Sans';
+    text-align: left;
+    font-weight: 400;
+    text-decoration-line: underline;
+}
+
+.imagen-back-derecha {
+    width: 60px;
+    height: 60px;
+    border-radius: 80%;
+    display: block;
+}

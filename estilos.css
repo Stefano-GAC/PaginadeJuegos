@@ -1,0 +1,59 @@
+.fondo-pantalla {
+    background-image: url('img/fondo-practica1.jpg');
+    background-size: cover;
+}
+
+
+.color-titulo {
+    color: limegreen;
+    text-align: center;
+}
+
+.color-encabezado {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.color-cuerpo1 {
+    color: springgreen;
+    text-align: center;
+}
+
+.color-cuerpo2 {
+    color: white;
+    text-align: center;
+}
+
+.color-juegos {
+    color: blanchedalmond;
+    text-align: left;
+}
+
+.formato-tabla {
+    width: 200px;
+    height: 80px;
+}
+
+.formato-tabla-sec {
+    width: 250px;
+    height: 100px;
+}
+
+.imagen-circulo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+.imagen-centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.celda-imagen {
+    min-height: 110px;
+    vertical-align: middle;
+}
